@@ -6,7 +6,7 @@
 
 
 [![PyPI version](https://badge.fury.io/py/sert.svg)](https://badge.fury.io/py/sert)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![PythonVersion](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
 
 `sert` is a Python module for machine learning built on top of Tensorflow. It is designed for deep learning on sets, focused on predictive modeling tasks, including both regression and classification, on time series and non-time series data.
