@@ -1,0 +1,33 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sert"
+version = "0.1.0"
+description = "SERT Python Package"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT License"}
+
+authors = [
+    {name = "Amin Shoari Nejad", email = "amin.shoarinejad@gmail.com"}
+]
+homepage = "https://github.com/aminsn/sert"
+repository = "https://github.com/aminsn/sert"
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8"
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "tensorflow>=2.0.0",
+    "keras_nlp>=0.6.0",
+]

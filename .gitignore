@@ -1,0 +1,5 @@
+dist/
+virt_Sert
+.DS_Store
+.vscode
+__pycache__/
