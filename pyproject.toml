@@ -8,7 +8,7 @@ version = "0.1.1"
 description = "SERT Python Package"
 readme = "README.md"
 requires-python = ">=3.5"
-license = { text = "MIT License"}
+license = { text = "Apache License"}
 
 authors = [
     {name = "Amin Shoari Nejad", email = "amin.shoarinejad@gmail.com"}
@@ -18,7 +18,7 @@ repository = "https://github.com/aminsn/sert"
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache License",
     "Natural Language :: English",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.6",
