@@ -4,10 +4,10 @@ build-backend = "hatchling.build"
 
 [project]
 name = "sert"
-version = "0.1.0"
+version = "0.1.1"
 description = "SERT Python Package"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.5"
 license = { text = "MIT License"}
 
 authors = [
