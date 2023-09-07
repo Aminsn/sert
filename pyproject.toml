@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "sert"
-version = "0.1.1"
+version = "0.0.1"
 description = "SERT Python Package"
 readme = "README.md"
 requires-python = ">=3.5"
@@ -18,7 +18,6 @@ repository = "https://github.com/aminsn/sert"
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: Apache License",
     "Natural Language :: English",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.6",
