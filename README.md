@@ -1,4 +1,4 @@
-<img src="sert_logo.png" width="130" height="130" align="left"> 
+<img src="sert_logo.jpeg" width="130" height="130" align="left"> 
 
 ## Sparse Encoder Representations from Transformers
 
