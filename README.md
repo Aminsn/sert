@@ -41,7 +41,7 @@ However, in some applications, storing data in a wide format is not feasible. Fo
 
 `sert` is designed to work with data in this long format, making it suitable for a variety of problems, including tabular, time series, and log data. The benefits of using long format data with `sert` are:
 
-1. It allows for the removal of individual observations with missing values without having to remove the entire row. As such, `sert` can handle missing values without requiring imputation or the removal of observed data from the same row.
+1. It allows for the removal of individual cells with missing values without having to remove the entire row in the wide format. As such, `sert` can handle missing values without requiring imputation or the removal of observed data from the same row.
 
 2. It can be applied to datasets that are best represented in a long format, such as log data or multivariate non-aligned time series data.
 
